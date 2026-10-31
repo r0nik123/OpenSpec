@@ -8,6 +8,7 @@ Listed projects are maintained independently. Inclusion does not imply official 
 
 - **[OpenSpec Workbench](https://github.com/VeryComplexAndLongName/OpenSpec-UI)**: Running and supervising agents on OpenSpec changes.
 - **[openspec-guard](https://github.com/guillaume-flambard/spec-guard)**: CLI and GitHub Action that reports which OpenSpec scenarios are covered by a Vitest or Jest test, without running the tests.
+- **[openspec-steward](https://github.com/yannicklescure/openspec-steward): Claude Code plugin with a change flow gated only at merge, and a CI checker that fails when a `MODIFIED` delta silently drops a scenario or a declared inventory drifts from the code.
 
 ## Hosted services
 
